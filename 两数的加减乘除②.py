@@ -1,0 +1,6 @@
+a = eval(input("请输入需要计算的第一个数: "))
+b = eval(input("请输入需要计算的第二个数: "))
+print(f"两数相加得：{a + b}")
+print(f"两数相减得：{a - b}")
+print(f"两数相乘得：{a * b}")
+print(f"两数相除得：{a / b}")
